@@ -51,6 +51,12 @@ body {
     margin-bottom: 100px;
 }
 
+.cms-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
 .comment-image-section img{
     border-radius: 50%;
     width: 70px;
